@@ -1,4 +1,4 @@
-# Odin Master List
+# [The Odin Project] - Projects
 
 ## List of all repositories and projects created for 'The Odin Project' curriculum.
 
