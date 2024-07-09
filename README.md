@@ -22,3 +22,9 @@
 | ------------------------ | -------------------------------------------------------- | -------------------------------------------------------------- | --------------- | ----------- | ------------ |
 | Project: Sign-up Form    | [Repo](https://github.com/AarKiMos/odin-signup-form)     | [Preview](http://pages.aachmanmittal.in/odin-signup-form/)     | CSS, HTML Forms | Partially   | Desktop Only |
 | Project: Admin Dashboard | [Repo](https://github.com/AarKiMos/odin-admin-dashboard) | [Preview](http://pages.aachmanmittal.in/odin-admin-dashboard/) | CSS Grid        | Partially   | Desktop Only |
+
+#### JavaScript
+
+| Project          | Repository Link                                  | Live Preview Link                                       | Key Tech.                              | Responssive | Platform     |
+| ---------------- | ------------------------------------------------ | ------------------------------------------------------- | -------------------------------------- | ----------- | ------------ |
+| Project: Library | [Repo](https://github.com/AarKiMos/odin-library) | [Preview](https://pages.aachmanmittal.in/odin-library/) | JS Objects, Constructors and Prototype | Partially   | Desktop Only |
